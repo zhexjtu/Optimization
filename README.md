@@ -1,5 +1,5 @@
 # Optimization
-Convex Optimization
+
 The reference books:
 
 1: << convex optimization >> by Stephen Boyd
