@@ -1,6 +1,6 @@
 # Optimization
 
-The reference books:
+The references:
 
 1: << convex optimization >> by Stephen Boyd
   
