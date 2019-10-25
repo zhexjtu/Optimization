@@ -2,11 +2,11 @@
 
 The references:
 
-1: << convex optimization >> by Stephen Boyd
+1: << Convex Optimization >> by Stephen Boyd
   
-2: << convex analysis >> by Rockafeller
+2: << Convex Analysis >> by Rockafeller
   
-3: << functional analysis >> by Peter D.Lax
+3: << Functional Analysis >> by Peter D.Lax
   
 4: << 非线性分析 >> 游兆永，徐宗本
 
